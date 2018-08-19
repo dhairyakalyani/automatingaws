@@ -10,3 +10,4 @@ Webotron currently has the following features:
 - List bucket
 - List Bucket objects
 - Create and setup S3 bucket
+= Sync directory to bucket
